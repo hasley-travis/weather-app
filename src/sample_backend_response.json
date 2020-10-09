@@ -1,0 +1,29 @@
+{
+  "location": {
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02116"
+  }
+  "cards": [{
+    "cardType": "currentCard",
+    "weather": {
+      "temp": 306.89,
+      "humidity": 36,
+      "description": "scattered clouds",
+      "icon": "03d"
+    }
+  },
+  {
+    "cardType": "dailyCard",
+    "date": "08/10",
+    "day": "Monday",
+    "weather": {
+      "temp": {
+        "min": 300.46,
+        "max": 306.89
+      },
+      "description": "scattered clouds",
+      "icon": "03d"
+    }
+  }]
+}

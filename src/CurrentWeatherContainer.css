@@ -1,0 +1,26 @@
+.CurrentWeatherContainer {
+  margin: auto;
+  height: auto;
+  align-items: center;
+  justify-content: center;
+  border: 1px dashed gray;
+  background-color: lightblue;
+  display: flex;
+  flex-direction: column;
+  display-content: center;
+  display-items: center;
+  justify-content: space-around;
+}
+
+.LocationTextContainer {
+}
+
+.CurrentConditionsContainer {
+  width: 100%;
+  display: flex;
+}
+
+.CurrentConditionsContainer div {
+  width: auto;
+  justify-content: space-around;
+}

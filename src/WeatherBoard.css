@@ -1,0 +1,9 @@
+.WeatherBoard {
+  background-color: #96ceb4;
+}
+
+.WeatherContainer {
+  padding: 40px 120px;
+  display: flex;
+  justify-content: space-around;
+}

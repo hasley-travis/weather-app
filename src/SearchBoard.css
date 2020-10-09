@@ -1,0 +1,8 @@
+.SearchBoard {
+  margin: auto;
+  height: 240px;
+  background-color: lightblue;
+  display: flex;
+  display-content: center;
+  display-items: center;
+}

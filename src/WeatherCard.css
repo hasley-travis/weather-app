@@ -1,0 +1,61 @@
+.WeatherCard {
+  margin: auto;
+  width: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  border: 3px solid gray;
+  padding: 15px;
+}
+
+.Day {
+  margin:auto;
+  text-align: center;
+  display: flex;
+  padding: 5px;
+  font-size: 28px;
+  color: navy;
+}
+
+.WeatherConditions {
+  margin:auto;
+  text-align: center;
+  display: flex;
+  padding: 5px;
+  font-size: 18px;
+  color: navy;
+}
+
+.Temperatures {
+  margin:auto;
+  text-align: center;
+  display: flex;
+  padding: 5px;
+}
+
+.LoTemp {
+  border: 3px solid lightblue;
+  margin: 10px;
+  text-align: center;
+  display: flex;
+  padding: 15px;
+  font-size: 26px;
+  color: blue;
+}
+
+.HiTemp {
+  border: 3px solid lightblue;
+  margin: 10px;
+  text-align: center;
+  display: flex;
+  padding: 15px;
+  font-size: 26px;
+  color: red;
+}
+
+.WeatherImage {
+  align-self: center;
+  margin: 20px;
+  height: 70%;
+  width: 70%;
+}
